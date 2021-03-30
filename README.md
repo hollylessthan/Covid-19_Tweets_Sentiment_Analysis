@@ -6,7 +6,7 @@ Python 3.8.5 and Jupyter Notebook
 #### Data set
 
 The data set is obtained from the Kaggle:
-https://www.kaggle. com/datatattle/ covid-19-nlp-text-classification
+https://www.kaggle.com/datatattle/covid-19-nlp-text-classification
 
 #### Context
 
